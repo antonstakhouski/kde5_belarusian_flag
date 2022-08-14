@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # backup national flag (red-green)
 if test ! -f /usr/share/kf5/locale/countries/by/official_flag.png
